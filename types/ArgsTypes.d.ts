@@ -1,0 +1,3 @@
+interface ArgsType {
+    file: String
+}
